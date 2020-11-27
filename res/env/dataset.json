@@ -1,0 +1,7 @@
+{
+  "norm": "threshold",
+  "cuda": null,
+  "predict_cuda": null,
+  "num_workers": 4,
+  "pin_memory": true
+}
